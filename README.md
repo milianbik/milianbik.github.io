@@ -1,2 +1,3 @@
 # milianbik.github.io
-First Project
+Title: Milian Bik's Homepage
+Description: Bookmark this page to keep an eye on my project updates!
